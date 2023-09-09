@@ -1,12 +1,12 @@
 # Alexa-Developers-SRM-Technical-Domain-Task
 Alexa Developers SRM Technical Domain Task for FrontEnd Developers
 
-#Description:
+# Description:
 Create a simple web application that allows users to check the weather for a specific location. You will utilize HTML, CSS, and JavaScript to build this app. The app should fetch weather data from a public API and display it to the user.
 
-#Title: Build a Weather App
+# Title: Build a Weather App
 
-#Requirements:
+# Requirements:
 1. User Interface:
     - Create an input field for users to enter the name of a city or a location.
     - Design a button to trigger the weather information retrieval.
